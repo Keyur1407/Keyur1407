@@ -35,12 +35,5 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-username" />
-</p>
-
----
 
 *Feel free to connect and collaborate!*

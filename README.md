@@ -18,8 +18,8 @@
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/padiakeyur0/)  
+- [Email](mailto:padiakeyur0@gmail.com)
 
 ---
 

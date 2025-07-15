@@ -22,6 +22,11 @@
 - [Email](mailto:padiakeyur0@gmail.com)
 
 ---
+### 🎗️ Projects Of Interest:
+- [MCP_chatbot](https://github.com/Keyur1407/MCP_Chatbot) Python-based chat and tool orchestration platform that connects users, tools, and LLMs via a unified interface. With Model Context Protocol (MCP) support, it enables advanced context management, Effcient token usage for tool calling,Along with integration of STT to TTS.
+- [ML_Attrition](https://github.com/Keyur1407/ML_Attrition) Predicts employee attrition using Random Forest with automated data cleaning, feature selection, hyperparameter tuning, and performance visualization for actionable HR insights.
+
+---
 
 ### 🛠️ Languages and Tools:
 <p>
